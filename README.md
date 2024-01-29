@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish Mahale
-- 🌱 I’m currently learning React Redux
+- 🌱 I’m currently learning Backend Development...
 - 💞️ I’m looking to collaborate on MERN Stack Project
 - 📫 Reach me on ashishmahale555@gmail.com
 - ⚡ Fun Fact: Imagination is more important than knowledge
